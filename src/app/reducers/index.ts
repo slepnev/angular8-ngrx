@@ -1,6 +1,5 @@
 import { ActionReducerMap, MetaReducer } from '@ngrx/store';
 import { environment } from '../../environments/environment';
-import { AuthState } from '../auth/auth.reducer';
 import { routerReducer } from '@ngrx/router-store';
 
 
