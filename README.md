@@ -1,2 +1,2 @@
-# angular7-ngrx
-Angular7 NgRx course
+# angular8-ngrx
+Angular8 NgRx course
